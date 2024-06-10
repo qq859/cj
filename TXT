@@ -1,5 +1,5 @@
 [
-
+IPV6测试网址：https://ipw.cn/ipv6/
 {"name":"洪宇的虎斗歪127","url":"http://127.0.0.1:9978/file/洪宇的仓库/虎牙斗鱼歪歪.txt"},
 {"name":"虎斗歪［github］","url":"https://gh.idayer.com/https://raw.githubusercontent.com/qq859/cj/main/%E8%99%8E%E7%89%99%E6%96%97%E9%B1%BC%E6%AD%AA%E6%AD%AA.txt","group":1},
 
