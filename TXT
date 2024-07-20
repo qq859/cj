@@ -1,3 +1,12 @@
+20240720
+虎斗歪
+#虎斗歪［github双源logo］(https://github.moeyy.xyz/https://raw.githubusercontent.com/qq859/cj/main/%E5%9B%BE%E7%89%87/LOGOHYTV.png)
+https://gh.idayer.com/https://raw.githubusercontent.com/qq859/cj/main/%E8%99%8E%E6%96%97%E6%AD%AAlogo.m3u
+
+#虎斗歪［github双源］(https://github.moeyy.xyz/https://raw.githubusercontent.com/qq859/cj/main/%E5%9B%BE%E7%89%87/LOGOHYTV.png)
+https://gh.idayer.com/https://raw.githubusercontent.com/qq859/cj/main/%E8%99%8E%E6%96%97%E6%AD%AA.m3u
+
+
 备用验证码
 ===
 这些验证码的生成时间:2021年12月15日需要更多验证码?请访问https://g.co/2sv
