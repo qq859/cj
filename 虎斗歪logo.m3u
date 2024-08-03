@@ -1,6 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/qq859/cj/main/%E5%9B%BE%E7%89%87/HYDIY800X1200.png" group-title="<洪宇DIY>",[KKTV]大吉大利影院
 https://pull.kktv8.com/livekktv/128600025.flv
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",星光视界频道
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",重温经典卫星
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典宫庭频道
+http://live.dxms.top:80/dwy/gtjc.php
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典清剧频道
+http://live.dxms.top:80/dwy/jdqj.php
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典天龙频道
+http://live.dxms.top:80/dwy/jdtl.php
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",金庸剧场频道
+http://cfss.cc/cdn/hy/11602082.flv
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典金庸频道
+http://live.dxms.top:80/dwy/jyjc.php
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典三国频道
+http://live.dxms.top:80/dwy/jdsg.php
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典怀旧频道
+http://live.dxms.top:80/dwy/hjjc.php
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典喜剧频道
+http://live.dxms.top:80/dwy/jdxj.php
+#EXTINF:-1 tvg-logo="https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png" group-title="<洪宇DIY>",经典回忆频道
+http://live.dxms.top:80/dwy/hyyy.php
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/qq859/cj/main/%E5%9B%BE%E7%89%87/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]铁道游击队
 https://live.880824.xyz/huya/11352936
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/qq859/cj/main/%E5%9B%BE%E7%89%87/HYDIY800X1200.png" group-title="<虎牙>",[虎牙]铁齿铜牙
