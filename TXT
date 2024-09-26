@@ -1,3 +1,8 @@
+
+镜像加速
+https://ghp.ci/
+
+
 20240822
 虎牙alinone
 https://gh.idayer.com/https://raw.githubusercontent.com/qq859/cj/main/huya.txt
