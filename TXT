@@ -2,7 +2,7 @@
 镜像加速
 https://ghp.ci/
 https://ghproxy.net/
-
+https://cors.isteed.cc/
 
 
 
